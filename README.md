@@ -1,4 +1,4 @@
-# Universal YT-DLP Installer
+# YT-DLP Installer
 
 Automatically downloads and installs the latest `yt-dlp` binary directly from GitHub, and adds it to your system's PATH.
 

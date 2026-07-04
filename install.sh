@@ -6,7 +6,7 @@ echo -e "\e[35m(˚ˎ 。7     /\e[0m"
 echo -e "\e[35m |、˜〵          \e[0m"
 echo -e "\e[35m じしˍ,)ノ\e[0m"
 echo ""
-echo -e "\e[36m Universal YT-DLP Manager\e[0m"
+echo -e "\e[36m YT-DLP Manager\e[0m"
 echo ""
 
 install_ytdlp() {

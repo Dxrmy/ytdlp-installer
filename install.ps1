@@ -8,7 +8,7 @@ function Show-CatHeader {
     Write-Host ""
     Write-Host $cat -ForegroundColor Magenta
     Write-Host ""
-    Write-Host " Universal YT-DLP Manager" -ForegroundColor Cyan
+    Write-Host " YT-DLP Manager" -ForegroundColor Cyan
     Write-Host ""
 }
 
